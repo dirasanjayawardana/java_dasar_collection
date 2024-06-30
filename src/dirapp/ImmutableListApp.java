@@ -18,13 +18,13 @@ public class ImmutableListApp {
         List<String> empty = Collections.emptyList();
 
         List<String> mutable = new ArrayList<>();
-        mutable.add("Eko");
-        mutable.add("Kurniawan");
+        mutable.add("Dira");
+        mutable.add("Sanjaya");
 
         // mengubah mutable list menjadi immutable list
         List<String> immutable = Collections.unmodifiableList(mutable);
 
         // membuat immutable list yang berisi beberapa elemen
-        List<String> elements = List.of("Eko", "Kurniawan", "Khannedy");
+        List<String> elements = List.of("Dira", "Sanjaya", "Wardana");
     }
 }

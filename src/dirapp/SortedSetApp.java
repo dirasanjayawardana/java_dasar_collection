@@ -17,8 +17,8 @@ public class SortedSetApp {
 
         SortedSet<Person> people = new TreeSet<>(new PersonComparator().reversed()); // .reversed() untuk membalikkan hasil sorted
 
-        people.add(new Person("Dira"));
         people.add(new Person("Sanjaya"));
+        people.add(new Person("Dira"));
         people.add(new Person("Wardana"));
 
         for(var person: people){
