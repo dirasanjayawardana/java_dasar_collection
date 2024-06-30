@@ -29,7 +29,7 @@ public class NavigableSetApp {
     }
 }
 
-// beberapa method yang ada di NavigableSet
+// beberapa method untuk melakukan navigasi di NavigableSet
 // lower(E): E
 // floor(E): E
 // ceiling(E): E

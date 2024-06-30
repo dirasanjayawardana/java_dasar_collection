@@ -114,17 +114,3 @@ public class MapApp {
 // Set<K> keySet();
 // Collection<V> values();
 // Set<Map.Entry<K, V>> entrySet();
-// K getKey();
-// V getValue();
-// V setValue(V value);
-// boolean equals(Object o);
-// int hashCode();
-// boolean equals(Object o);
-// int hashCode();
-// V getOrDefault(Object key, V defaultValue)
-// void replaceAll(BiFunction<? super K, ? super V, ? extends V> function)
-// V putIfAbsent(K key, V value)
-// boolean remove(Object key, Object value)
-// boolean replace(K key, V oldValue, V newValue)
-// V replace(K key, V value)
-// V merge
