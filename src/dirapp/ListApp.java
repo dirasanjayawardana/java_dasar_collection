@@ -19,7 +19,7 @@ public class ListApp {
 
         // LinkedList adalah list dengan struktur data Double Linked List
         // setiap data ada connector untuk next data dan previous data, bukan berupa array tapi berupa node
-        // LinkedList lebih cepat ketika add data dan remove data, namun lebih lambat ketika get data dan set data, dibandingkan dengan ArrayList
+        // LinkedList lebih cepat ketika add data dan remove data, namun lebih lambat ketika get data dan set data karena harus membaca data satu persatu, dibandingkan dengan ArrayList
         // List<String> strings = new LinkedList<>();
 
         strings.add("Dira");
