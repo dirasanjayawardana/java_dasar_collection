@@ -13,6 +13,7 @@ public class IterableApp {
         // saat melakukan foreach Iterable sebenarnya itu akan mengakses iterator di dalam Iterable 
         Iterable<String> names = List.of("Dira", "Sanjaya", "Wardana");
 
+        // Setiap class iterable bisa dilakukan foreach
         for (var name : names) {
             System.out.println(name);
         }
