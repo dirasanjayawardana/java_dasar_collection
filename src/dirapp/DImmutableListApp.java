@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ImmutableListApp {
+public class DImmutableListApp {
     public static void main(String[] args) {
         
         // ImmutableList (list yang datanya tidak bisa diubah), secara default List bersifat mutable
