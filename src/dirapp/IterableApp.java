@@ -18,7 +18,6 @@ public class IterableApp {
             System.out.println(name);
         }
 
-
         // contoh melakukan iterasi manual dengan Iterator, sebelum ada foreach
         System.out.println("ITERATOR");
         Iterator<String> iterator = names.iterator();
