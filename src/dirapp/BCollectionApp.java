@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-public class CollectionApp {
+public class BCollectionApp {
     public static void main(String[] args) {
 
         // Interface Iterable digunakan sebagai kontrak untuk mengiterasi data secara sequential
