@@ -3,7 +3,7 @@ package dirapp;
 import java.util.Iterator;
 import java.util.List;
 
-public class IterableApp {
+public class AIterableApp {
     public static void main(String[] args) {
 
         // Interface Iterable digunakan sebagai kontrak untuk mengiterasi data secara sequential
