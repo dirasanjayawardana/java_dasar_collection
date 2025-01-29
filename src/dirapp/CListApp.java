@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ListApp {
+public class CListApp {
     public static void main(String[] args){
 
         // List adalah struktur data collection yang memiliki sifat:
