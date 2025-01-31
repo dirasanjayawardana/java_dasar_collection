@@ -21,6 +21,7 @@ public class Person {
     public List<String> getHobbies() {
         // membuat agar List hobbies yg direturn berupa immutable list
         // enkapsulasi (melindungi data agar tidak bisa diubah ubah)
+        
         return Collections.unmodifiableList(hobbies);
     }
 
