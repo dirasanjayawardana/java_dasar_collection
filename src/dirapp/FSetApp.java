@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class SetApp {
+public class FSetApp {
 
     public static enum Gender {
         MALE, FEMALE, NOT_MENTION
