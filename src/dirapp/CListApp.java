@@ -1,6 +1,7 @@
 package dirapp;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -34,6 +35,9 @@ public class CListApp {
         for (var value : strings){
           System.out.println(value);
         }
+
+        // Mengubah array ke List yang bisa diubah
+        // List<String> list = new ArrayList<>(Arrays.asList(array));
 
     }
 }
