@@ -39,7 +39,6 @@ public class FSetApp {
         for (var name : names) {
           System.out.println(name);
         }
-
         
         // EnumSet adalah Set yang tipe datanya harus Enum
         Set<Gender> genders = EnumSet.allOf(Gender.class);
