@@ -11,7 +11,7 @@ public class Person {
     private List<String> hobbies;
 
     public Person(String name) {
-        this.name = name;
+        this.name = name; 
         this.hobbies = new ArrayList<>();
     }
 
