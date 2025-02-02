@@ -1,6 +1,7 @@
 package dirapp;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -26,5 +27,8 @@ public class EImmutableListApp {
 
         // membuat immutable list yang berisi beberapa elemen
         List<String> elements = List.of("Dira", "Sanjaya", "Wardana");
+
+        // Mengubah array menjadi Immutable List
+        // List<String> list = Arrays.asList(array);
     }
 }
