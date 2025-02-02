@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ImmutableSet {
+public class GImmutableSet {
     public static void main(String[] args) {
 
         // ImmutableSet (Set yang datanya tidak bisa diubah)
