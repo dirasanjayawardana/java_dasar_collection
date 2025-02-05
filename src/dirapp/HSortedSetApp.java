@@ -7,7 +7,7 @@ import java.util.TreeSet;
 import dirapp.data.Person;
 import dirapp.data.PersonComparator;
 
-public class SortedSetApp {
+public class HSortedSetApp {
     public static void main(String[] args) {
         
         // SortedSet adalah turunan dari Set, namun element element didalamnya akan diurutkan secara otomatis
