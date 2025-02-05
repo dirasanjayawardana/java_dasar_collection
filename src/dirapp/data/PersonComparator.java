@@ -10,6 +10,5 @@ public class PersonComparator implements Comparator<Person> {
         // akan menghasilkan urutan Ascending
         return o1.getName().compareTo(o2.getName());
     }
-    
-    
+
 }
