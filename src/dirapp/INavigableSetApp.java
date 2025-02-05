@@ -5,7 +5,7 @@ import java.util.NavigableSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class NavigableSetApp {
+public class INavigableSetApp {
     public static void main(String[] args) {
 
         // NavigableSet adalah turunan dari SortedSet, semua method SortedSet bisa digunakan di NavigableSet
