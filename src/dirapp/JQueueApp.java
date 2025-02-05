@@ -3,7 +3,7 @@ package dirapp;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class QueueApp {
+public class JQueueApp {
     public static void main(String[] args) {
 
         // Queue adalah implementasi dari struktur data antrian atau FIFO (First In First Out)
@@ -32,7 +32,7 @@ public class QueueApp {
 
 // beberapa mtehod yang ada di Queue Interface
 // offer(E): boolean
-// remove(): E --> mengambil data pertama dan menghapusnya
-// poll(): E --> mengambil data pertama dan menghapusnya, beda return errornya dengan remove()
-// element(): E --> mengambil data pertama
-// peek(): E
+// remove(): E --> mengambil data pertama dan menghapusnya, jika sudah habis akan return exception
+// poll(): E --> mengambil data pertama dan menghapusnya, beda return errornya dengan remove(), jika datanya sudah habis akan return null
+// element(): E --> mengambil data pertama, jika data tidak ada akan return exception
+// peek(): E --> mengambil data pertama, jika data tidak ada akan return null
