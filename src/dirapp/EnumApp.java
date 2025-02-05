@@ -22,7 +22,6 @@ public class EnumApp {
     // }
 }
 
-
 // OUTPUT yg dihasilkan
 // Level: HIGH
 // Nilai Level: 3
