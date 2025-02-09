@@ -3,7 +3,7 @@ package dirapp;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class DequeApp {
+public class KDequeApp {
     public static void main(String[] args) {
 
         // Deque (Double ended queue) adalah queue yang bisa beroperasi dari depan atau belakang
