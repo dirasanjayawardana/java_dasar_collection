@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.WeakHashMap;
 
-public class MapApp {
+public class LMapApp {
     public static enum Level {
         FREE, STANDARD, PREMIUM, VIP
     }
@@ -18,7 +18,7 @@ public class MapApp {
         // Map adalah struktur data collection yang berisikan mapping data antara key dan value
         // key pada map harus unik, jika duplikat maka akan replace key sebelumnya
         // berbeda dengan array atau list yang menggunakan index
-        // Map<keyType, valueType> ada interface, untuk membuat objectnya bisa dengan class yang implementasi Map, seperti:
+        // Map<keyType, valueType> adalah interface, untuk membuat objectnya bisa dengan class yang implementasi Map, seperti:
         // HashMap(), WeakHashMap(), IdentitiyHashMap(), LinkedHashMap(), EnumHashMap()
 
 
