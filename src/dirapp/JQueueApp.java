@@ -30,6 +30,7 @@ public class JQueueApp {
     }
 }
 
+
 // beberapa mtehod yang ada di Queue Interface
 // offer(E): boolean
 // remove(): E --> mengambil data pertama dan menghapusnya, jika sudah habis akan return exception
