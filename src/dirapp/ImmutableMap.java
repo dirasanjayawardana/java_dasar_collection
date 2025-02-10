@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ImmutableMap {
+public class MImmutableMap {
     public static void main(String[] args) {
         
         // ImmutableMap (Map yang datanya tidak bisa diubah), secara default Map bersifat mutable
