@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-public class SortedMapApp {
+public class NSortedMapApp {
     public static void main(String[] args) {
 
         // SortedMap adalah implementasi Map dengan data key diurutkan sesuai dengan
