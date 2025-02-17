@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class SortedList {
+public class CSortedList {
     public static void main(String[] args) {
 
         // untuk melakukan sorting si list, menggunakan:
