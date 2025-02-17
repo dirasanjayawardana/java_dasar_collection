@@ -2,9 +2,10 @@ package dirapp;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 
-public class EntryApp {
+public class PEntryApp {
     public static void main(String[] args) {
         
         // saat menyimpan data di Map, data disimpan dalam pair (key-value)
@@ -20,7 +21,7 @@ public class EntryApp {
         // values() mengambil valuenya saja
         // keySet() mengambil keynya saja
         // entrySet() mengambil key dan value, sehingga bisa menggunakan getKey() dan getValue()
-        Set<Map.Entry<String, String>> entries = map.entrySet();
+        Set<Entry<String, String>> entries = map.entrySet();
 
         for (var entry : entries) {
           System.out.println(entry.getKey() + " : " + entry.getValue());

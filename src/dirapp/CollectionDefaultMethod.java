@@ -7,7 +7,7 @@ import java.util.List;
 public class CollectionDefaultMethod {
     public static void main(String[] args) {
         
-        // void copy(listTo, listFrom --> copy semua data dari listFrom ke listTo)
+        // void copy(listTo, listFrom) --> copy semua data dari listFrom ke listTo
         // int frequency(collection, object) --> mengambil beberapa banyak element yang sama dengan object
         // max(collection) dan max(collection, comparator) --> mengambil element paling tinggi di list
         // min(collection) dan min(collection, comparator) --> mengambil element paling rendah di list

@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.NavigableMap;
 import java.util.TreeMap;
 
-public class NavigableMapApp {
+public class ONavigableMapApp {
     public static void main(String[] args) {
         
         // NavigabeMap adalah turunan dari SortedMap, semua method SortedMap bisa digunakan di NavigableMap
