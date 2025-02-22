@@ -112,6 +112,6 @@ public class LMapApp {
 // V remove(Object key);
 // void putAll(Map<? extends K, ? extends V> m);
 // void clear();
-// Set<K> keySet();
-// Collection<V> values();
+// Set<K> keySet(); --> mengambil semua key dan memasukkan nya kedalam Set
+// Collection<V> values(); --> mengambil semua value yg ada di map, dan menyimpannya ke dalam Collection seperti List
 // Set<Map.Entry<K, V>> entrySet();

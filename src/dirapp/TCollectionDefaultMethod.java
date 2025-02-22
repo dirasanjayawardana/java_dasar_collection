@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class CollectionDefaultMethod {
+public class TCollectionDefaultMethod {
     public static void main(String[] args) {
         
         // void copy(listTo, listFrom) --> copy semua data dari listFrom ke listTo

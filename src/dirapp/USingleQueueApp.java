@@ -4,7 +4,7 @@ import java.util.Queue;
 
 import dirapp.collection.SingleQueue;
 
-public class SingleQueueApp {
+public class USingleQueueApp {
     public static void main(String[] args) {
         
         // jika ingin membuat collection manual, bisa menggunakan abstract class yang sudah disediakan

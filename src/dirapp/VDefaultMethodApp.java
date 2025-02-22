@@ -9,7 +9,7 @@ import java.util.function.Consumer;
 import java.util.function.Predicate;
 import java.util.function.UnaryOperator;
 
-public class DefaultMethodApp {
+public class VDefaultMethodApp {
     public static void main(String[] args) {
         
         // Default Method List dan Iterable:

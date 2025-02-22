@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class BinarySearchApp {
+public class SBinarySearchApp {
     public static void main(String[] args) {
         
         // secara default List di java sudah memiliki ditur search atau getData, namun dilakukan secara sequential (berurutan satu persatu)
