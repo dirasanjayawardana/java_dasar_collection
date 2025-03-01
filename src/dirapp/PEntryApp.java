@@ -22,8 +22,12 @@ public class PEntryApp {
         // keySet() mengambil keynya saja
         // entrySet() mengambil key dan value, sehingga bisa menggunakan getKey() dan getValue()
         Set<Entry<String, String>> entries = map.entrySet();
-
         for (var entry : entries) {
+          System.out.println(entry.getKey() + " : " + entry.getValue());
+        }
+
+        // bisa juga lebih simple seperti ini
+        for (Map.Entry<String, String> entry : map.entrySet()) {
           System.out.println(entry.getKey() + " : " + entry.getValue());
         }
     }
